@@ -18,7 +18,7 @@ Projeto desenvolvido com propósito didático.
 <br>
 
 <p align="center">
-  <img alt="Agregador de Links" src=".github/Dark mode.png" width="100%">
+  <img alt="Agregador de Links" src=".github/dark-mode.png" width="100%">
 </p>
 
 ## Tecnologias
